@@ -115,19 +115,19 @@ https://destroy-your-problems.vercel.app/
 
 ### 1. Mysterious Landing Screen
 
-![Mysterious Landing Screen](https://drive.google.com/file/d/1dvv73BWFANPWXlah_8Nr9aBU-gRbvRuC/view?usp=sharing)
+![Mysterious Landing Screen](https://raw.githubusercontent.com/adarshgit18/destroy-your-problems/refs/heads/main/Screenshot%202026-09-12%20165614.png)
 
 The mysterious landing screen introduces the dark, system-style interface with subtle floating academic problems.
 
 ### 2. Attendance Battle
 
-![Attendance Battle Screen](https://drive.google.com/file/d/1IOYZUzO1kSStvN2CPXx7Pl1qycXgbXjC/view?usp=sharing)
+![Attendance Battle Screen](https://raw.githubusercontent.com/adarshgit18/destroy-your-problems/refs/heads/main/Screenshot%202026-09-12%20165628.png)
 
 The Attendance battle screen where the user selects a weapon and faces the unexpected **Sir reaction**.
 
 ### 3. Website Final Boss
 
-![Website Final Boss](https://drive.google.com/file/d/1S_55fJ6ztUED63NU8oUBccSjG7jadsXS/view?usp=sharing)
+![Website Final Boss](https://raw.githubusercontent.com/adarshgit18/destroy-your-problems/refs/heads/main/Screenshot%202026-09-12%20165732.png)
 
 The final boss stage where the website itself turns against the player.
 
@@ -135,7 +135,7 @@ The final boss stage where the website itself turns against the player.
 
 ## 🔄 Workflow
 
-![Project Workflow](https://drive.google.com/file/d/1dixIktuWQcCySoJcyntXsGwhjBEpU3A_/view?usp=sharing)
+![Project Workflow](https://raw.githubusercontent.com/adarshgit18/destroy-your-problems/refs/heads/main/Screenshot%202026-09-12%20170745.png)
 
 **Workflow summary:**  
 User enters the website → discovers and destroys **Attendance, Assignment, and Viva** → faces the **Roast** → battles the **Website Final Boss** → discovers its secret weakness → destroys it → reaches the ending.
